@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Building my Personal Portfolio and getting mt first front-end developer job.
+- 🔭 I’m currently working on Building my Personal Portfolio and setting my foot in the Industry.
 - 🌱 I’m currently learning Javascript and React
 - 👯 I’m looking to collaborate on anything to do with front-end dev
 - 📫 How to reach me: ...( coming soon )
