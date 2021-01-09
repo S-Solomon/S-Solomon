@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Building my Personal Portfolio and setting my foot in the Industry.
 - 🌱 I’m currently learning Javascript and React
-- 👯 I’m looking to collaborate on anything to do with front-end dev
+- 👯 I’m looking to collaborate on anything to do with Coding
 - 📫 How to reach me: ...( coming soon )
 - ⚡ Fun fact: ...I play Basketball
 
