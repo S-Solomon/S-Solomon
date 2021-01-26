@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Building my Personal Portfolio and looking for my first web development job
+- 🔭 I’m currently working on Building my Personal Portfolio
 - 🌱 I’m currently learning Javascript and React.
 - 👯 I’m looking to collaborate on anything to do with Coding
 - 📫 How to reach me: https://www.linkedin.com/in/samuel-solomon-66b3b0203/
