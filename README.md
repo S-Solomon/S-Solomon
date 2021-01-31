@@ -11,3 +11,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: https://www.linkedin.com/in/samuel-solomon-66b3b0203/
 - ⚡ Fun fact: ...I play Basketball 
 
+
+- [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
+
