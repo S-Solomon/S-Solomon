@@ -1,14 +1,14 @@
 ```javascript
-import { Harnish, Bio } from "portfolio"
+import { Solomon, Bio } from "portfolio"
 
-class AboutMe extends Harnish.Bio {
+class AboutMe extends Solomon.Bio {
   const getDailyKnowledge = () => {
     return (
 		[
-		    id: 1, name: 'SCSS',
-		    id: 2, name: 'JavaScript',
-		    id: 3, name: 'React',
-		    id: 4, name: 'GSAP'
+		    id: 1, name: 'HTML',
+		    id: 2, name: 'CSS',
+		    id: 3, name: 'Javascript',
+		    id: 4, name: 'REACT'
 		 ]
 	   )
      }
