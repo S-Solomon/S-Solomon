@@ -7,7 +7,7 @@ class AboutMe extends Solomon.Bio {
 		[
 		    id: 1, name: 'HTML',
 		    id: 2, name: 'CSS/SASS',
-		    id: 3, name: 'Javascript',
+		    id: 3, name: 'Javascript(ES6)',
 		    id: 4, name: 'REACT'
 		 ]
 	   )
