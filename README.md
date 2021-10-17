@@ -1,6 +1,6 @@
 ```javascript
 import { Solomon, Bio } from "portfolio"
-import nanoid from "nanoid"
+import { nanoid } from 'nanoid';
 
 class AboutMe extends Solomon.Bio {
   const getDailyKnowledge = () => {
@@ -19,7 +19,9 @@ class AboutMe extends Solomon.Bio {
 	 <div>
 	    {getDailyKnowledge().map(item => {
 		return(
-		  {item.id} {item.name}
+		  <div key={item.id}>
+		  	<h1>{item.name}</h1>
+		  </div>
 		)
 	    })}
 	 </div>
