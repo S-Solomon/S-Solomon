@@ -1,14 +1,15 @@
 ```javascript
 import { Solomon, Bio } from "portfolio"
+import nanoid from "nanoid"
 
 class AboutMe extends Solomon.Bio {
   const getDailyKnowledge = () => {
     return (
 		[
-		    id: 1, name: 'HTML',
-		    id: 2, name: 'CSS/SASS',
-		    id: 3, name: 'Javascript(ES6)/Typescript',
-		    id: 4, name: 'REACT'
+		    id: nanoid(), name: 'HTML',
+		    id: nanoid(), name: 'CSS/SASS',
+		    id: nanoid(), name: 'Javascript(ES6)/Typescript',
+		    id: nanoid(), name: 'REACT'
 		 ]
 	   )
      }
