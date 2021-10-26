@@ -8,8 +8,10 @@ class AboutMe extends Solomon.Bio {
 		[
 		    id: nanoid(), name: 'HTML',
 		    id: nanoid(), name: 'CSS/SASS',
-		    id: nanoid(), name: 'Javascript(ES6)/Typescript',
+		    id: nanoid(), name: 'Javascript(ES6)
+		    id: nanoid(), name: 'Typescript',
 		    id: nanoid(), name: 'REACT'
+		    id: nanoid(), name: 'Algorithms & Data Structures'
 		 ]
 	   )
      }
